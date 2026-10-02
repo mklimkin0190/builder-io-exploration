@@ -27,7 +27,7 @@ export default function App() {
           </p>
           <div className="hero-actions">
             <a className="btn btn-primary" href="#contact">Get started</a>
-            <a className="btn btn-secondary" href="#features">Learn more</a>
+            <a className="btn btn-outline" href="#features">Learn more</a>
           </div>
         </section>
 
